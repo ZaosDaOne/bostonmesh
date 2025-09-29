@@ -1,2 +1,2 @@
-# Zatree node based off of the Washtastic PCB
+## Zatree node based off of the Washtastic PCB
 
